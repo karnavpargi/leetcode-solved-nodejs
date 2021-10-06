@@ -1,0 +1,24 @@
+{
+  "name": "leetCode_examples",
+  "version": "1.0.0",
+  "description": "LeetCode examples solved in nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/karnav-pargi/leetcode-solved-nodejs.git"
+  },
+  "keywords": [
+    "leetcode",
+    "nodejs",
+    "solutions"
+  ],
+  "author": "Karnav Pargi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karnav-pargi/leetcode-solved-nodejs/issues"
+  },
+  "homepage": "https://github.com/karnav-pargi/leetcode-solved-nodejs#readme"
+}
